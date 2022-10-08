@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Sat Oct  8 10:54:23 2022 as: nmap -sC -sV -oA nmap/shibboleth 10.129.49.22
+Host: 10.129.49.22 ()	Status: Up
+Host: 10.129.49.22 ()	Ports: 80/open/tcp//http//Apache httpd 2.4.41/	Ignored State: closed (999)
+# Nmap done at Sat Oct  8 10:54:33 2022 -- 1 IP address (1 host up) scanned in 10.63 seconds
